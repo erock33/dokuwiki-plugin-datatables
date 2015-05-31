@@ -1,0 +1,10 @@
+base dokuwiki-plugin-datatables
+author Eric Hobbs
+email eric.hobbs33@gmail.com
+date 2015-05-31
+name Datatables jQuery Plugin for DokuWiki
+email eric.hobbs33@gmail.com
+date 2015-05-31
+name Datatables jQuery Plugin for DokuWiki
+desc Adds the Datatables jQuery Plugin to the DokuWiki
+url https://github.com/erock33/dokuwiki-plugin-datatables
